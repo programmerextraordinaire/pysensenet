@@ -4,7 +4,11 @@
 # pysensenet.py
 #
 # by Thane Plummer
-# Distribution: pysensenet.codeplex.com
+#
+# Distribution
+#    CodePlex: pysensenet.codeplex.com
+#    GitHub: github.com/programmerextraordinaire/pysensenet
+#
 # License: Apache v2.0
 #         
 
